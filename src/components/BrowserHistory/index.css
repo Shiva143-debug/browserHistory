@@ -1,0 +1,27 @@
+.list-container {
+  list-style-type: none;
+}
+
+.container {
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 40px;
+}
+.card {
+  display: flex;
+  padding: 10px;
+}
+.image {
+  width: 30px;
+  margin-top: 30px;
+  margin-right: 20px;
+}
+
+.para {
+  padding: 20px;
+}
+.DeleteButton {
+  width: 20px;
+  height: 20px;
+  margin-top: 40px;
+}
